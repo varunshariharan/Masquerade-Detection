@@ -1,0 +1,3701 @@
+S Fri Mar 20 09:16:09 1987
+E NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e mbox
+D /user/srdg/xxxxxxx
+A emacs mbox
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+
+S Wed Apr  8 09:16:12 1987
+E Wed Apr  8 11:46:33 1987
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .calendar
+D /user/profs/blob
+A emacs .calendar
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter.1
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.1
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C mail
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C cd ~blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e .calendar
+D /user/profs/blob
+A emacs .calendar
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob
+A NIL
+H NIL
+X NIL
+
+C cd ls
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C people -all University of Toronto
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C people Toronto
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C people Waterloo
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C fg
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+
+S Wed Apr  8 11:46:48 1987
+E Wed Apr  8 13:04:45 1987
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter
+H NIL
+X NIL
+
+C ptroff -me -h letter.1
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.1
+H NIL
+X NIL
+
+C cd ~jade/calendar
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e jade
+D /user/jade/jade/calendar
+A emacs jade
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade/calendar
+A ls -F
+H NIL
+X NIL
+
+C cd'
+D /user/jade/jade/calendar
+A NIL
+H NIL
+X S  11
+
+C cd
+D /user/jade/jade/calendar
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+
+S Wed Apr  8 13:04:59 1987
+E NIL
+
+C cd ~jade/calendar
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade/calendar
+A ls -F
+H NIL
+X NIL
+
+C e jade
+D /user/jade/jade/calendar
+A emacs jade
+H NIL
+X NIL
+
+C cd
+D /user/jade/jade/calendar
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ptroff -me -h letter
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter.2
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.2
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.2
+D /user/srdg/xxxxxxx/blob
+A emacs letter.2
+H NIL
+X NIL
+
+C ptroff -me -h letter.2
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.2
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter.2
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.2
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter.2
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.2
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C clear
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C rm letter.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd ~kfoc/NRL_jade
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/kfoc/NRL_jade
+A ls -F
+H NIL
+X NIL
+
+C e 870408.baker
+D /user/srdg/kfoc/NRL_jade
+A emacs 870408.baker
+H NIL
+X NIL
+
+C cp 870408.baker ~xxxxxxx baker
+D /user/srdg/kfoc/NRL_jade
+A cp -i 870408.baker ~xxxxxxx baker
+H NIL
+X NIL
+
+C cp 870408.baker ~xxxxxxx
+D /user/srdg/kfoc/NRL_jade
+A cp -i 870408.baker ~xxxxxxx
+H NIL
+X NIL
+
+C cd
+D /user/srdg/kfoc/NRL_jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C e 870408.baker
+D /user/srdg/xxxxxxx
+A emacs 870408.baker
+H NIL
+X NIL
+
+C rm 870408.baker
+D /user/srdg/xxxxxxx
+A /bin/mv 870408.baker /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C e baker
+D /user/srdg/xxxxxxx
+A emacs baker
+H NIL
+X NIL
+
+C nroff -me baker
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e baker
+D /user/srdg/xxxxxxx
+A emacs baker
+H NIL
+X NIL
+
+C nroff -me baker
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C mail bonham
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e baker
+D /user/srdg/xxxxxxx
+A emacs baker
+H NIL
+X NIL
+
+C nroff -me baker
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e baker
+D /user/srdg/xxxxxxx
+A emacs baker
+H NIL
+X NIL
+
+C nroff -me baker
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C ptroff -me -h baker
+D /user/srdg/xxxxxxx
+A /usr/local/bin/ptroff -Palw1 -me -h baker
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx
+A lpq -Palw1
+H NIL
+X NIL
+
+C ptroff -me -h baker
+D /user/srdg/xxxxxxx
+A /usr/local/bin/ptroff -Palw1 -me -h baker
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C rm baker
+D /user/srdg/xxxxxxx
+A /bin/mv baker /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+
+S Thu Apr  9 09:16:52 1987
+E NIL
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls'
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X S  11
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C people Ohio
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C people -all Ohio
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd etc/people
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e people
+D /user/srdg/xxxxxxx/etc/people
+A emacs people
+H NIL
+X NIL
+
+C make
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C e time
+D /user/srdg/xxxxxxx/unger
+A emacs time
+H NIL
+X NIL
+
+C tbl time | ptroff -me -h
+D /user/srdg/xxxxxxx/unger
+A /usr/local/bin/tbl time | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e time
+D /user/srdg/xxxxxxx/unger
+A emacs time
+H NIL
+X NIL
+
+C tbl time | ptroff -me -h
+D /user/srdg/xxxxxxx/unger
+A /usr/local/bin/tbl time | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C rm time.CKP
+D /user/srdg/xxxxxxx/unger
+A /bin/mv time.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/unger
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd SRDG
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ; s
+D /user/srdg/xxxxxxx/SRDG
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/srdg/xxxxxxx/SRDG
+A ls -F
+H NIL
+X NIL
+
+C e trust
+D /user/srdg/xxxxxxx/SRDG
+A emacs trust
+H NIL
+X NIL
+
+C tbl trust | nroff -me -h
+D /user/srdg/xxxxxxx/SRDG
+A /usr/local/bin/tbl trust | nroff -me -h
+H NIL
+X NIL
+
+C tbl trust | ptroff -me -h
+D /user/srdg/xxxxxxx/SRDG
+A /usr/local/bin/tbl trust | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e trust
+D /user/srdg/xxxxxxx/SRDG
+A emacs trust
+H NIL
+X NIL
+
+C tbl trust | ptroff -me -h
+D /user/srdg/xxxxxxx/SRDG
+A /usr/local/bin/tbl trust | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/SRDG
+A ls -F
+H NIL
+X NIL
+
+C rm trust.CKP
+D /user/srdg/xxxxxxx/SRDG
+A /bin/mv trust.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/SRDG
+A NIL
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C e time
+D /user/srdg/xxxxxxx/unger
+A emacs time
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/unger
+A NIL
+H NIL
+X NIL
+
+C cd SRDG
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e trust
+D /user/srdg/xxxxxxx/SRDG
+A emacs trust
+H NIL
+X NIL
+
+C tbl trust | ptroff -me -h
+D /user/srdg/xxxxxxx/SRDG
+A /usr/local/bin/tbl trust | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/SRDG
+A ls -F
+H NIL
+X NIL
+
+C e trust
+D /user/srdg/xxxxxxx/SRDG
+A emacs trust
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/SRDG
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/SRDG
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | nroff -me
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter.alain
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.alain
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.2
+D /user/srdg/xxxxxxx/blob
+A emacs letter.2
+H NIL
+X NIL
+
+C ptroff -me -h letter.2
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.2
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ptroff -me -h letter
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C rm letter.1.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter.1.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm letter.2.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter.2.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm letter.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd ~blob
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e
+D /user/profs/blob
+A emacs
+H NIL
+X NIL
+
+C e .calendar
+D /user/profs/blob
+A emacs .calendar
+H NIL
+X NIL
+
+
+S Thu Apr  9 14:11:18 1987
+E Thu Apr  9 16:54:26 1987
+
+C cd ACCOUNTS
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS
+A ls -F
+H NIL
+X NIL
+
+C cd 86.87
+D /user/srdg/xxxxxxx/ACCOUNTS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e 4228
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs 4228
+H NIL
+X NIL
+
+C e 4228
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs 4228
+H NIL
+X NIL
+
+C tbl 4228 | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl 4228 | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm total.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv total.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm 4228.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv 4228.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A lpq -Palw1
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff | alw 156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | alw 156
+H NIL
+X N  10
+
+C e 4228
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs 4228
+H NIL
+X NIL
+
+C tbl total | nroff | alw156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier8
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff | alw156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier8
+H NIL
+X NIL
+
+C ; s
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff | alw156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier8
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C e total.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total.1
+H NIL
+X NIL
+
+C tbl total | nroff | alw156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier8
+H NIL
+X NIL
+
+C e total.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total.1
+H NIL
+X NIL
+
+C tbl total | nroff | alw156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier8
+H NIL
+X NIL
+
+C e total.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total.1
+H NIL
+X NIL
+
+C tbl total.1 | nroff | alw156
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total.1 | nroff | enscript -Palw1 -1rB -fCourier8
+H NIL
+X NIL
+
+C e total
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs total
+H NIL
+X NIL
+
+C tbl total | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl total | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm total.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv total.1 /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e expenses
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs expenses
+H NIL
+X NIL
+
+C tbl expenses | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl expenses | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm expenses.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv expenses.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C e revenue
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue
+H NIL
+X NIL
+
+C talk bonham
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e revenue
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue
+H NIL
+X NIL
+
+C tbl revenue | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C lds
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm revenue.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv revenue.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e university
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs university
+H NIL
+X NIL
+
+C tbl university | ptroff -me -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl university | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e university
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs university
+H NIL
+X NIL
+
+C tbl university | ptroff -me -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl university | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm university.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv university.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd willow
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A ls -F
+H NIL
+X NIL
+
+C cd phase2
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A ls -F
+H NIL
+X NIL
+
+C e w.bill2
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A emacs w.bill2
+H NIL
+X NIL
+
+C tbl w.bill2 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A /usr/local/bin/tbl w.bill2 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A ls -F
+H NIL
+X NIL
+
+C e w.bill2
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A emacs w.bill2
+H NIL
+X NIL
+
+C tbl w.bill2 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A /usr/local/bin/tbl w.bill2 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A ls -F
+H NIL
+X NIL
+
+C rm w.bill2.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A /bin/mv w.bill2.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow/phase2
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A ls -F
+H NIL
+X NIL
+
+C e willowglen
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A emacs willowglen
+H NIL
+X NIL
+
+C tbl willowglen | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A /usr/local/bin/tbl willowglen | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C e willowglen
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A emacs willowglen
+H NIL
+X NIL
+
+C tbl willowglen | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A /usr/local/bin/tbl willowglen | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87/willow
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e unger
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs unger
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C ptroff -me -h letter.1
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C rm letter.1.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter.1.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+
+S Fri Apr 10 09:24:28 1987
+E Fri Apr 10 11:47:45 1987
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd BLOB
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C e letter.1
+D /user/srdg/xxxxxxx/blob
+A emacs letter.1
+H NIL
+X NIL
+
+C tbl letter.1 | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl letter.1 | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+
+S Fri Apr 10 15:04:02 1987
+E Fri Apr 10 17:17:06 1987
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~kfoc/srdg/srdc
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 870406.future
+D /user/srdg/kfoc/srdg/srdc
+A emacs 870406.future
+H NIL
+X NIL
+
+C cd
+D /user/srdg/kfoc/srdg/srdc
+A NIL
+H NIL
+X NIL
+
+C cd ACCOUNTS
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS
+A ls -F
+H NIL
+X NIL
+
+C cd 86.87
+D /user/srdg/xxxxxxx/ACCOUNTS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e revenue
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A lpq -Palw1
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm revenue.1.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv revenue.1.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C e revenue
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue
+H NIL
+X NIL
+
+C tbl revenue | nroff | alw125 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue | nroff | enscript -Palw1 -1rB -fCourier10 -h
+H NIL
+X NIL
+
+C e revenue
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue
+H NIL
+X NIL
+
+C tbl revenue | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C e finance.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance.1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm revenue.1.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv revenue.1.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C e revenue.1
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs revenue.1
+H NIL
+X NIL
+
+C tbl revenue.1 | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl revenue.1 | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e expenses
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs expenses
+H NIL
+X NIL
+
+C tbl expenses | nroff | alw156 -h
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /usr/local/bin/tbl expenses | nroff | enscript -Palw1 -1rB -fCourier8 -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C e expenses
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs expenses
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C e finance
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A emacs finance
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+C rm finance.CKP
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A /bin/mv finance.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS/86.87
+A ls -F
+H NIL
+X NIL
+
+
+S Mon Apr 13 09:02:21 1987
+E Mon Apr 13 12:21:31 1987
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C rm letter*
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter* /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd forms
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/forms
+A ls -F
+H NIL
+X NIL
+
+C e holidays
+D /user/srdg/xxxxxxx/forms
+A emacs holidays
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vancation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vancation | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | nroff
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | nroff
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | nroff
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff
+H NIL
+X NIL
+
+C tbl vacation | ptroff -h
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | /usr/local/bin/ptroff -Palw1 -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/forms
+A lpq -Palw1
+H NIL
+X NIL
+
+C ; s
+D /user/srdg/xxxxxxx/forms
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/srdg/xxxxxxx/forms
+A ls -F
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vaction | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vaction | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | ptroff -me -h
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/forms
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/forms
+A NIL
+H NIL
+X NIL
+
+C e telephone
+D /user/srdg/xxxxxxx
+A emacs telephone
+H NIL
+X NIL
+
+C e telephone
+D /user/srdg/xxxxxxx
+A emacs telephone
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd forms
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | ptroff -me -h
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e vacation
+D /user/srdg/xxxxxxx/forms
+A emacs vacation
+H NIL
+X NIL
+
+C tbl vacation | nroff -me
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | nroff -me
+H NIL
+X NIL
+
+C tbl vacation | ptroff -me -h
+D /user/srdg/xxxxxxx/forms
+A /usr/local/bin/tbl vacation | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/forms
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/forms
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/forms
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/forms
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/forms
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ptroff -me -h letter
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/ptroff -Palw1 -me -h letter
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X N  10
+
+C e letter
+D /user/srdg/xxxxxxx/blob
+A emacs letter
+H NIL
+X NIL
+
+C nroff -me letter
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C rm letter.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv letter.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+
+S Mon Apr 13 16:08:09 1987
+E NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd affiliates
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/affiliates
+A ls -F
+H NIL
+X NIL
+
+C e mail.list
+D /user/srdg/xxxxxxx/affiliates
+A emacs mail.list
+H NIL
+X NIL
+
+C people Teknica
+D /user/srdg/xxxxxxx/affiliates
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 09:17:03 1987
+E Tue Apr 14 16:40:36 1987
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+S Fri Mar 20 09:16:09 1987
+E NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp wordprocesor.p copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp cleanfile tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat wordprocesor.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm wordprocesor.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs copy.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 21:13:51 1987
+E Thu Mar  5 21:41:47 1987
+
+C cp wordprocesor.p ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ok.p wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat copyfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs copyfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp copyfile tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C catcat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat cleanfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 22:18:38 1987
+E Thu Mar  5 22:35:06 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar  5 22:35:43 1987
+E Thu Mar  5 23:32:39 1987
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C um
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C u
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C uma
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 08:14:22 1987
+E Fri Mar  6 09:07:42 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C copy copy.p ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cp copy.p ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ok.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 09:53:18 1987
+E Fri Mar  6 10:00:06 1987
+
+C who
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C s mail xxxxxxx
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mail xxxxxxx
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C s
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar  6 09:59:05 1987
+E NIL
+
+C mail
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat tempfile
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 10:13:31 1987
+E Fri Mar  6 10:18:27 1987
+
+C mail
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 11:50:45 1987
+E Fri Mar  6 14:11:13 1987
+
+C OSOS
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp wordprocesor.p.CKP wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ccccc
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:14:22 1987
+E Fri Mar  6 12:40:38 1987
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs wordprocesor.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 12:47:28 1987
+E Fri Mar  6 12:52:12 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:32:24 1987
+E Fri Mar  6 15:53:51 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ccccc
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs wordprocesor.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL

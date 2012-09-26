@@ -1,0 +1,19 @@
+there is anomalous data in T2 and T3 of the training phase !
+
+T!
+0-815 from novice-1
+
+T2
+816-1367 from novice-1
+0-330 from experienced-1
+0-48 from scientist-1
+
+T3
+1368-1704 from novice-1
+331-528 from experienced-1
+49-87 from scientist-1
+
+testing
+1705-2297 from novice-1
+529-879 from experienced-1
+88-135 from scientist-1

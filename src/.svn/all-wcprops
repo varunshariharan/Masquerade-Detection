@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 25
+/svn/!svn/ver/2/trunk/src
+END
+LossyCompression.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/8/trunk/src/LossyCompression.java
+END
+EditDistance.java
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/src/EditDistance.java
+END
+TraceFileReadAndWrite.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/trunk/src/TraceFileReadAndWrite.java
+END
+Utility.java
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/20/trunk/src/Utility.java
+END
+DataStreamPatternRecognizer.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/20/trunk/src/DataStreamPatternRecognizer.java
+END
+LZW.java
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/20/trunk/src/LZW.java
+END
+Statistics.java
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/20/trunk/src/Statistics.java
+END
+TraceFileEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/9/trunk/src/TraceFileEntry.java
+END

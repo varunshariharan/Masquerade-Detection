@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/svn/!svn/ver/2/trunk/test
+END
+UtilityTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/18/trunk/test/UtilityTest.java
+END
+DataStreamPatternRecognizerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/19/trunk/test/DataStreamPatternRecognizerTest.java
+END
+LZWTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/19/trunk/test/LZWTest.java
+END
+IntegrationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/20/trunk/test/IntegrationTest.java
+END
+LossyCompressionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/19/trunk/test/LossyCompressionTest.java
+END
+EditDistanceTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/16/trunk/test/EditDistanceTest.java
+END
+TraceFileReadAndWriteTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/16/trunk/test/TraceFileReadAndWriteTest.java
+END

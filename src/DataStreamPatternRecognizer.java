@@ -1,0 +1,104 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+import java.util.Set;
+
+public class DataStreamPatternRecognizer {
+    private boolean debug = false;
+    private String dataStream;
+    private StringBuffer anomalousData;
+    private int[][] d;
+    private int sourceLength;
+    private final int destinationLength;
+    public static final char matchedChar = '.';
+
+    public DataStreamPatternRecognizer(String dataStream) {
+        this.dataStream = dataStream;
+        destinationLength = dataStream.length();
+        anomalousData = new StringBuffer(dataStream);
+    }
+
+    public String removePatternsGotFromQuantizedDictionary(Set<String> phraseSet, boolean condenseAfterMatching, TraceFileReadAndWrite traceFileIO) {
+        for (String phrase : phraseSet) {
+            if(debug)System.out.println("\n" + phrase);
+            if(debug)System.out.println(traceFileIO.decodeCommandsFromString(phrase));
+            int[] pattern = recognizePattern(phrase);
+            for (int index = 1, patternLength = pattern.length; index < patternLength ; index++) {
+                int distance = pattern[index];
+//                if((distance >= 0) && (distance < Math.ceil((float)phrase.length()/2))) {
+                if((distance >= 0) && (distance < Math.ceil((float)phrase.length()/2))) {
+                    String matchedString = performBackwardTraversalFromIndex(index - 1);
+                    if(debug)System.out.println(traceFileIO.decodeCommandsFromString(matchedString) + " " + distance);
+                    removeMatch(index, matchedString.length());
+                }
+            }
+        }
+        if(debug)System.out.println(dataStream);
+
+        //remove matched parts
+        if(condenseAfterMatching){
+            for (int index = dataStream.length() - 1; index >= 0; index--) {
+                if(anomalousData.charAt(index) == matchedChar)
+                    anomalousData.replace(index, index + 1, "");
+            }
+        }
+
+        return anomalousData.toString() ;
+    }
+
+    public int[] recognizePattern(String phrase) {
+        sourceLength = phrase.length();
+        d = new int[sourceLength + 1][destinationLength + 1];
+
+        for (int i = 0; i <= sourceLength; i++)
+            d[i][0] = i;
+        for (int j = 0; j <= destinationLength; j++)
+            d[0][j] = 0;
+
+        for (int j = 0; j < destinationLength; j++)
+            for (int i = 0; i < sourceLength; i++)
+                d[i + 1][j + 1] = (phrase.charAt(i) == dataStream.charAt(j)) ?
+                        d[i][j] :
+                        Math.min(d[i][j + 1], Math.min(d[i + 1][j], d[i][j])) + 1;
+
+        return d[sourceLength];
+    }
+
+    public String performBackwardTraversalFromIndex(int index) {//index is like column index in dataStream
+        String pattern = "";
+        int rowIndex = sourceLength;
+        int up, diagonal, min;
+        index++;//to account for the pattern starting with a unwanted padded left cell
+        while (rowIndex != 0) {
+            up = d[rowIndex-1][index];
+            diagonal = index - 1 >= 0 ? d[rowIndex - 1][index - 1] : up + 1;
+            min = Math.min(up, diagonal);
+            if(diagonal == min) {
+                pattern += dataStream.charAt(index - 1);
+                rowIndex--;
+                index--;
+                continue;
+            }
+            rowIndex--;
+        }
+        pattern = new StringBuffer(pattern).reverse().toString();
+        return pattern;
+    }
+
+    public void removeMatch(int index, int length) {
+        //set substring of length 'length', ending at index 'index' to series of 'matchedChar'
+        String replaceMatchedWith = String.valueOf(matchedChar);
+        for(int count = 1; count < length; count++) replaceMatchedWith += matchedChar;
+        anomalousData.replace(index - length + 1, index + 1, replaceMatchedWith);
+    }
+
+    public void writeAnomalousDataToFile(String fileName, TraceFileReadAndWrite traceFileIO) throws IOException {
+        BufferedWriter bufferedWriter = new BufferedWriter(new FileWriter("quantizedDictionary/" + fileName + "-anomalousData"));
+        bufferedWriter.write(traceFileIO.decodeCommandsFromString(anomalousData.toString()).toString());
+        bufferedWriter.close();
+    }
+
+    public String getAnomalousData() {
+        return anomalousData.toString();
+    }
+}

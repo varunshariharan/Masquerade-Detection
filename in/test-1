@@ -1,0 +1,26 @@
+S Fri Mar  6 14:08:30 1987
+E NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C b
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A limits
+H NIL
+X NIL
+
+C c
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C c
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A limits
+H NIL
+X NIL

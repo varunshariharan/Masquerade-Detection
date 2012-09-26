@@ -1,0 +1,1754 @@
+S Thu Apr  2 12:59:07 1987
+E Thu Apr  2 14:30:28 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 13:39:08 1987
+E Thu Apr  2 13:49:10 1987
+
+C ls -al
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cat rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 13:56:42 1987
+E Thu Apr  2 14:09:44 1987
+
+C ls -al
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cat rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  2 16:58:03 1987
+E Thu Apr  2 17:03:16 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more m26 m31 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr  6 10:22:33 1987
+E Mon Apr  6 10:23:07 1987
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 10:15:46 1987
+E Wed Apr  8 10:17:58 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 10:22:16 1987
+E Wed Apr  8 10:30:21 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more m26 m31 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more Deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more a02
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr a02
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more example
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more examples
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cp /user/cpsc211/Deal2.p Deal2.p
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix Deal2.p
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm Deal2.p
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 10:32:32 1987
+E Wed Apr  8 10:33:12 1987
+
+C cd ~hill
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd ~hill/213
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd /user/profs/hill/213
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+
+S Wed Apr  8 14:32:32 1987
+E Wed Apr  8 14:33:09 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 16:39:04 1987
+E Wed Apr  8 16:44:29 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm dead.letter
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 18:24:11 1987
+E Wed Apr  8 18:24:34 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 18:53:18 1987
+E Wed Apr  8 18:55:20 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more r1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr  8 21:15:35 1987
+E Wed Apr  8 21:16:18 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:17:24 1987
+E Thu Apr  9 10:24:47 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C more Deal2.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:25:12 1987
+E Thu Apr  9 10:33:11 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mseg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C gggggggg
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:33:31 1987
+E Thu Apr  9 10:36:00 1987
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:41:46 1987
+E Thu Apr  9 10:44:45 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg n
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mesg y
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Apr  9 10:50:33 1987
+E Thu Apr  9 10:52:35 1987
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 11:56:16 1987
+E Fri Apr 10 11:57:09 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 12:01:09 1987
+E Fri Apr 10 12:03:11 1987
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Fri Apr 10 17:17:35 1987
+E Fri Apr 10 17:21:06 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Apr 11 17:14:36 1987
+E Sat Apr 11 17:21:50 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.01.1.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.01.0.p11 sub01a.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.08.p11 ass4.08.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.07.p11 ass4.07.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.06.p11 ass4.06.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.05.p11 ass4.05.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.04.p11 ass4.04.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.03.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.03.p11 ass4.03.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.02.p11 ass4.02.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.01.p11 ass4.01.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.01.1.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.01.1.p11 ass4.01a.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~hill/ass4.01.2.p11 ass4.01b.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more ass4.01a.p11 ass4.01b.p11 ass4.02.p11 ass4.03.p11 ass4.04.p11 ass4.05.p11 ass4.06.p11 ass4.06.p11 ass4.07.p11 ass4.08.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Apr 12 11:01:15 1987
+E Sun Apr 12 11:08:41 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp /user/profs/hill/main.p11 main.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp/user/profs/hill/sort.p11 sort.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp /user/profs/hill/sort.p11 sort.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp /user/profs/hill/valtab.p11 valtab.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp /user/profs/hill/newline.p11 newline.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp /user/profs/hill/readme.t
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp /user/profs/hill/readme.t readme.t
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more readme.t main.p11 newline.p11 sort.p11 valtab.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more readme.t main.p11 newline.p11 sort.p11 valtab.p11 | lpr
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 13 11:39:24 1987
+E Mon Apr 13 11:40:45 1987
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 15:10:21 1987
+E Tue Apr 14 15:12:18 1987
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 14 15:47:51 1987
+E Tue Apr 14 15:52:20 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 13:26:50 1987
+E Wed Apr 15 13:27:40 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 13:30:57 1987
+E Wed Apr 15 13:32:23 1987
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:07:53 1987
+E Wed Apr 15 14:08:17 1987
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:18:41 1987
+E Wed Apr 15 14:28:10 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more assignment4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr asignment4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr assignment4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxxxxx
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd ~sharp/213
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C more simple-add.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C more simple_add.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more asign4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd asign4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C more battle.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C more Battle.p11
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C more Battle.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C pix Battle.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X J  81
+
+
+S Wed Apr 15 14:29:16 1987
+E Wed Apr 15 14:33:46 1987
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:39:12 1987
+E Wed Apr 15 14:39:32 1987
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:48:20 1987
+E Wed Apr 15 14:51:11 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 14:56:31 1987
+E Wed Apr 15 14:59:59 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm FirstFile a5.p a5.p.CKP an2.p as3.p asng3.p asnmt1b.p assn1.p mbox rd.p typescript
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more assignment5.p
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd asign4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C rm header B.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 15:01:14 1987
+E Wed Apr 15 15:01:56 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 15:04:01 1987
+E Wed Apr 15 15:05:04 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 15:09:52 1987
+E Wed Apr 15 15:10:26 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 15:15:20 1987
+E Wed Apr 15 15:16:05 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 15:20:34 1987
+E Wed Apr 15 15:21:51 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail montgomerie
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Apr 15 15:24:21 1987
+E Wed Apr 15 15:27:03 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL

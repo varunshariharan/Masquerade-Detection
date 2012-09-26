@@ -1,0 +1,4919 @@
+S Fri Mar 20 13:28:30 1987
+E Fri Mar 20 13:32:52 1987
+
+C cd asign4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix B.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C pix B.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X J  81
+
+
+S Fri Mar 20 13:36:24 1987
+E Fri Mar 20 14:13:24 1987
+
+C cd asign4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix B.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C pix
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C pix B.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X J  81
+
+
+S Fri Mar 20 14:29:15 1987
+E Fri Mar 20 14:49:15 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sat Mar 21 13:54:57 1987
+E Sat Mar 21 13:59:16 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Sun Mar 22 12:13:23 1987
+E Sun Mar 22 13:50:40 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ?
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+C ?
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X M  09
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more as3.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 10:01:00 1987
+E Mon Mar 23 10:02:00 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p1
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 10:02:51 1987
+E Mon Mar 23 10:45:11 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpdb a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpdb a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 12:54:21 1987
+E Mon Mar 23 13:05:41 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 13:06:41 1987
+E Mon Mar 23 14:37:55 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs messages.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd ~sharp/213
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C more umacs.tut
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X D  88
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp rout1.p11 rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C messages.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X N  10
+
+C umacs messages.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l messages.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more messages.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs messages.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas messages.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk messages.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp rout1.p11 rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C [M
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X M  09
+
+
+S Mon Mar 23 14:42:45 1987
+E Mon Mar 23 15:09:35 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpdb a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 15:10:37 1987
+E Mon Mar 23 15:13:14 1987
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd /user/cpsc211
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpr m19
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 15:16:07 1987
+E Mon Mar 23 15:21:12 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 23 15:23:35 1987
+E Mon Mar 23 16:07:46 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 10:36:48 1987
+E Tue Mar 24 10:42:34 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 10:46:03 1987
+E Tue Mar 24 11:28:10 1987
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp rout1b.p11 r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm mbox
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas - r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpdb a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more typescript
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p1q1
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more r1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 11:31:25 1987
+E Tue Mar 24 11:42:05 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk r1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr r1b.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 13:40:42 1987
+E Tue Mar 24 16:15:41 1987
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs save.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas save.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk save.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C rm as3.p11.CKP messages.p11 messages.p11.CKP messages.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C rm save.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C rm r1b.p11.CKP
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs restore.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas restore.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs save.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs save.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs restore.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp rout1.p11 r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs r1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C rm messages r1b.lst r1b.p11 r1b.po rout1b.lst rout1b.p11 rout1b.p11.CKP
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C rm messages.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd ~sharp/213
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C dumb_add.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X Y 102
+
+C lpr dumb_add.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C umacs rout5.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc533/l01b02/sharp/213
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout2.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout5.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p1 1
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C q
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X N  10
+
+C umacs rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cp rout1.p11 rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1b.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C umacs rout1b.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdplk rout1.po
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdp60 a.pout
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C pdpas -l rout1.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout1.lst
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Tue Mar 24 16:24:10 1987
+E Tue Mar 24 17:00:08 1987
+
+C cd rout5.p11
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rout5.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C more rout5.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpr rout5.p11
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C mail low
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd asign4
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix Battle.p
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/cpsc211/l03b34/xxxxxxx/asign4
+A NIL
+H NIL
+X NIL
+
+C cd dirname
+D /user/cpsc211/l03b34/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b34/xxxxxxx/dirname
+A NIL
+H NIL
+X NIL
+
+
+S Fri Mar  6 14:30:15 1987
+E NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp p8 p9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C setenv TERM vip7400
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C date
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cp p9 p10
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e p10
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p10
+H NIL
+X NIL
+
+C who
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc531/l01b91/xxx/p547
+A clear
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C who | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C fg
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd
+D /user/cpsc531/l01b91/xxx/p547
+A cd && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C mv savelogin .savelogin
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C mv savelogout .savelogout
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C 531
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/c531 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c531
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd Ada
+D /user/cpsc531/l01b91/xxx/c531
+A cd Ada && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c531/Ada
+A /bin/ls -F
+H NIL
+X NIL
+
+C limits
+D /user/cpsc531/l01b91/xxx/c531/Ada
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c531/Ada
+A /bin/ls -F
+H NIL
+X NIL
+
+C myada
+D /user/cpsc531/l01b91/xxx/c531/Ada
+A cd /user/cpsc531/l01b91/xxx/c500/ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C e fp.a
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A emacs fp.a
+H NIL
+X NIL
+
+C 
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A clear
+H NIL
+X NIL
+
+C who
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A clear
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar  7 10:52:55 1987
+E NIL
+
+C mail
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar  7 10:59:56 1987
+E NIL
+
+C mail janmohamed@vaxc
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C rwho
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx
+A logout
+H NIL
+X NIL
+
+
+S Sat Mar  7 14:43:24 1987
+E NIL
+
+C who
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cat p9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C setenv TERM vip7400
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C who
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpr p9 p10
+D /user/cpsc531/l01b91/xxx/p547
+A "lpr" -C "b350vaxc" p9 p10
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc531/l01b91/xxx/p547
+A clear
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/p547
+A logout
+H NIL
+X NIL
+
+
+S Mon Mar  9 13:09:05 1987
+E NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc531/l01b91/xxx/p547
+A mv -f -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ~/.delete ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C 500
+D /user/cpsc531/l01b91/xxx/p547
+A cd /user/cpsc531/l01b91/xxx/c500 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c500
+A /bin/ls -F
+H NIL
+X NIL
+
+C myada
+D /user/cpsc531/l01b91/xxx/c500
+A cd /user/cpsc531/l01b91/xxx/c500/ADA && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc531/l01b91/xxx/c500/ADA
+A cd .. && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cd M*
+D /user/cpsc531/l01b91/xxx/c500
+A cd M* && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/c500/Modula
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr partmod.script
+D /user/cpsc531/l01b91/xxx/c500/Modula
+A "lpr" -C "b350vaxc" partmod.script
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/c500/Modula
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/c500/Modula
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 07:17:19 1987
+E NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 12:13:26 1987
+E Tue Mar 10 12:36:40 1987
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C setenv TERM apl100
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+
+S Tue Mar 10 12:44:45 1987
+E NIL
+
+C setenv TERM apl100
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C e
+D /user/cpsc531/l01b91/xxx/p547
+A emacs
+H NIL
+X NIL
+
+C lpr p9
+D /user/cpsc531/l01b91/xxx/p547
+A "lpr" -C "b350vaxc" p9
+H NIL
+X NIL
+
+C e p10
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p10
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C purge
+D /user/cpsc531/l01b91/xxx/p547
+A mv -f -f .ed_[0-9]* .emacs_[0-9]* .*.CKP .*.BAK *.CKP *.BAK ~/.delete ; clear ; /bin/ls -al | more
+H NIL
+X NIL
+
+C h
+D /user/cpsc531/l01b91/xxx/p547
+A history -r | more
+H NIL
+X NIL
+
+C lpr p10
+D /user/cpsc531/l01b91/xxx/p547
+A "lpr" -C "b350vaxc" p10
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpr
+D /user/cpsc531/l01b91/xxx/p547
+A "lpr" -C "b350vaxc"
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C size p9
+D /user/cpsc531/l01b91/xxx/p547
+A echo -n The length is: ; wc -l p9
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C cp p9 junk
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e junk
+D /user/cpsc531/l01b91/xxx/p547
+A emacs junk
+H NIL
+X NIL
+
+C size junk
+D /user/cpsc531/l01b91/xxx/p547
+A echo -n The length is: ; wc -l junk
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm junk.BAK junk
+D /user/cpsc531/l01b91/xxx/p547
+A mv -f junk.BAK junk ~/.delete
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cp p9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cp p9 t9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cp p10 t10
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e t9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs t9
+H NIL
+X NIL
+
+C setenv EDITOR fred
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C fred t9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C fred t10
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq | more
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/p547
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 13:39:15 1987
+E NIL
+
+C ccdp547
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X N  10
+
+C cd p547
+D /user/cpsc531/l01b91/xxx
+A cd p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cat p9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cat t9
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cat t10
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/p547
+A logout
+H NIL
+X NIL
+
+
+S Tue Mar 10 20:05:04 1987
+E NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C m500
+D /user/cpsc531/l01b91/xxx
+A cd /usera/cpsc500 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd handouts
+D /user/cpsc500
+A cd handouts && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no27
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no28
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C lpr no28
+D /user/cpsc500/handouts
+A "lpr" -C "b350vaxc" no28
+H NIL
+X NIL
+
+C size no28
+D /user/cpsc500/handouts
+A echo -n The length is: ; wc -l no28
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/handouts
+A clear
+H NIL
+X NIL
+
+C setenv TERM vip7400
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc500/handouts
+A clear
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/handouts
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 15:27:22 1987
+E NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx
+A /bin/ls -F
+H NIL
+X NIL
+
+C m500
+D /user/cpsc531/l01b91/xxx
+A cd /usera/cpsc500 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500
+A /bin/ls -F
+H NIL
+X NIL
+
+C cd handouts
+D /user/cpsc500
+A cd handouts && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C more no28
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc500/handouts
+A /bin/ls -F
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C lpr no28
+D /user/cpsc500/handouts
+A "lpr" -C "b350vaxc" no28
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C who
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C rwho | more
+D /user/cpsc500/handouts
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc500/handouts
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 23:55:45 1987
+E NIL
+
+C rwho
+D /user/cpsc531/l01b91/xxx
+A NIL
+H NIL
+X NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C rm t10.BAK t10 t9 t9.BAK
+D /user/cpsc531/l01b91/xxx/p547
+A mv -f t10.BAK t10 t9 t9.BAK ~/.delete
+H NIL
+X NIL
+
+C ls
+D /user/cpsc531/l01b91/xxx/p547
+A /bin/ls -F
+H NIL
+X NIL
+
+C e p3
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p3
+H NIL
+X NIL
+
+C e p6
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p6
+H NIL
+X NIL
+
+C cp p6 sfs
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e p9
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p9
+H NIL
+X NIL
+
+C e p5
+D /user/cpsc531/l01b91/xxx/p547
+A emacs p5
+H NIL
+X NIL
+
+C cp p5 obe
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C e obe
+D /user/cpsc531/l01b91/xxx/p547
+A emacs obe
+H NIL
+X NIL
+
+C e sfs
+D /user/cpsc531/l01b91/xxx/p547
+A emacs sfs
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/p547
+A logout
+H NIL
+X NIL
+
+
+S Wed Mar 11 23:58:55 1987
+E NIL
+
+C p547
+D /user/cpsc531/l01b91/xxx
+A cd /user/cpsc531/l01b91/xxx/p547 && set prompt = "=!= [$cwd:t] ==> "
+H NIL
+X NIL
+
+C cat obe
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C cat sfs
+D /user/cpsc531/l01b91/xxx/p547
+A NIL
+H NIL
+X NIL
+
+C bye
+D /user/cpsc531/l01b91/xxx/p547
+A logout
+H NIL
+X NIL
+
+
+S Thu Feb  5 10:54:41 1987
+E Thu Feb  5 12:55:50 1987
+
+C cd Csh
+D /user/grads/xxxxxxx
+A cd Csh ; dirs
+H NIL
+X D 88
+
+C cd csh
+D /user/grads/xxxxxxx
+A cd csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv bruce bruce.old
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv ian ian.old
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv freedman freedman.old
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C tail xxxxxxx
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C tail joeblo
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C mv joeblo joeblo.old
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C compact bruce.old
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C compact freedman.old & '
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X S 11
+
+C compact freedman.old &
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C compact joeblo.old &
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C compact ian.old &
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep xxxxjjjj xgr*
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm xgr*02....
+D /user/grads/xxxxxxx/csh/Trace
+A /bin/mv xgr*02.... /usera/grads/xxxxxxx/.deleted
+H NIL
+X M  9
+
+C rm xgr*02*
+D /user/grads/xxxxxxx/csh/Trace
+A /bin/mv xgr*02* /usera/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C rm xgr*15
+D /user/grads/xxxxxxx/csh/Trace
+A /bin/mv xgr*15 /usera/grads/xxxxxxx/.deleted
+H NIL
+X M  9
+
+C rm xgr*15*
+D /user/grads/xxxxxxx/csh/Trace
+A /bin/mv xgr*15* /usera/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm xgr*16*
+D /user/grads/xxxxxxx/csh/Trace
+A /bin/mv xgr*16* /usera/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:54:23 1987
+E Mon Mar 30 16:42:18 1987
+
+
+C ls
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C emacs zz_stuff.c
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xgr*
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/csh/Trace
+A ls -las
+H NIL
+X NIL
+
+C man compress
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C emacs mycompress
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C jobs
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C %1
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd ..
+D /user/grads/xxxxxxx/csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ../Csh.new/zz_csh
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xgr*
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C PWD
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X N 10
+
+C cd ..
+D /user/grads/xxxxxxx/csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/csh
+A /bin/mv *CKP *BAK .*BAK .*CKP /usera/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C cd zz_csh
+D /user/grads/xxxxxxx/csh
+A cd zz_csh ; dirs
+H NIL
+X D 88
+
+C cd Csh.new
+D /user/grads/xxxxxxx/csh
+A cd Csh.new ; dirs
+H NIL
+X NIL
+
+
+S Thu Feb  5 13:50:28 1987
+E NIL
+
+C man getgid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C cd Csh.new
+D /user/grads/xxxxxxx/csh
+A cd Csh.new ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C make
+D /user/grads/xxxxxxx/csh/Csh.new
+A NIL
+H NIL
+X NIL
+
+C cd ../Trace
+D /user/grads/xxxxxxx/csh/Csh.new
+A cd ../Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C grep gree xbr*
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X J 82
+
+C cd ..
+D /user/grads/xxxxxxx/csh/Trace
+A cd .. ; dirs
+H NIL
+X NIL
+
+C emacs
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man getgid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man setegid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man setgid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man setgid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man 3 setgid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man setregid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X J 82
+
+C ls
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/grads/xxxxxxx/csh
+A /bin/mv *CKP *BAK .*BAK .*CKP /usera/grads/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C page sh.c
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C grep setegid sh.c
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man setegid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man -k setegid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man -k setgid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C man setuid
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh
+A NIL
+H NIL
+X NIL
+
+
+S Mon Mar 30 12:54:23 1987
+E Mon Mar 30 16:42:18 1987
+
+C tset -s -I vt132 > ~/to.send
+D /user/grads/xxxxxxx/emacs
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/emacs
+A cd ; dirs
+H NIL
+X NIL
+
+
+S Fri Feb  6 09:20:40 1987
+E Fri Feb  6 09:27:31 1987
+
+C rmail
+D /user/grads/xxxxxxx
+A emacs -lrmail -ermail-com
+H NIL
+X NIL
+
+C hi
+D /user/grads/xxxxxxx
+A page /tmp/info
+H NIL
+X NIL
+
+
+S Fri Feb  6 10:26:01 1987
+E Fri Feb  6 10:58:32 1987
+
+C cd emacs
+D /user/grads/xxxxxxx
+A cd emacs ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/emacs
+A NIL
+H NIL
+X NIL
+
+C cd doc
+D /user/grads/xxxxxxx/emacs
+A cd doc ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/emacs/doc
+A NIL
+H NIL
+X NIL
+
+C ftp vaxc
+D /user/grads/xxxxxxx/emacs/doc
+A NIL
+H NIL
+X NIL
+
+
+S Fri Feb  6 11:55:59 1987
+E Fri Feb  6 12:13:44 1987
+
+C cd Csh
+D /user/grads/xxxxxxx
+A cd Csh ; dirs
+H NIL
+X D 88
+
+C cd csh
+D /user/grads/xxxxxxx
+A cd csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/csh
+A cd Trace ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C verbose xgr*01
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X M  9
+
+C verbose xgr*01*
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C error_count xgr*
+D /user/grads/xxxxxxx/csh/Trace
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/grads/xxxxxxx/csh/Trace
+A cd ; dirs
+H NIL
+X NIL
+
+C cd refs
+D /user/grads/xxxxxxx
+A cd refs ; dirs
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+C page Makefile
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/grads/xxxxxxx/refs
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/grads/xxxxxxx/refs
+A ls -las
+H NIL
+X NIL
+
+
+S Fri Feb  6 14:55:22 1987
+E Fri Feb  6 14:56:25 1987
+
+C quota
+D /user/grads/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C p
+D /user/grads/xxxxxxx
+A ps -x
+H NIL
+X NIL
+
+C cd Csh/Trace
+D /user/grads/xxxxxxx
+A cd Csh/Trace ; dirs
+H NIL
+X D 88
+
+C cd Csh
+D /user/grads/xxxxxxx
+A cd Csh ; dirs
+H NIL
+X D 88
+
+C cd csh
+D /user/grads/xxxxxxx
+A cd csh ; dirs
+H NIL
+X NIL
+
+C cd Trace
+D /user/grads/xxxxxxx/csh
+A cd Trace ; dirs
+H NIL
+X NIL

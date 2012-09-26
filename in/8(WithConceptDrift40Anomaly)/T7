@@ -1,0 +1,3998 @@
+S Fri Mar 20 09:16:09 1987
+E NIL
+
+C ls
+D /user/srdg/kfoc/srdg/nrl
+A ls -F
+H NIL
+X NIL
+
+C cp 870421.jade.navy ~xxxxxxx/kfoc navy
+D /user/srdg/kfoc/srdg/nrl
+A cp -i 870421.jade.navy ~xxxxxxx/kfoc navy
+H NIL
+X NIL
+
+C cp 870421.jade.navy ~xxxxxxx/kfoc
+D /user/srdg/kfoc/srdg/nrl
+A cp -i 870421.jade.navy ~xxxxxxx/kfoc
+H NIL
+X NIL
+
+C cd
+D /user/srdg/kfoc/srdg/nrl
+A NIL
+H NIL
+X NIL
+
+C cd kfoc
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C e 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A emacs 870421.jade.navy
+H NIL
+X NIL
+
+C mkdir blob
+D /user/srdg/xxxxxxx/kfoc
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx/kfoc
+A NIL
+H NIL
+X NIL
+
+C login blob
+D /user/srdg/xxxxxxx/kfoc/blob
+A NIL
+H NIL
+X J  81
+
+C fg
+D /user/srdg/xxxxxxx/kfoc/blob
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/srdg/xxxxxxx/kfoc/blob
+A NIL
+H NIL
+X NIL
+
+C su blob
+D /user/srdg/xxxxxxx/kfoc/blob
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/kfoc/blob
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ~blob/refs/thing .
+D /user/srdg/xxxxxxx/blob
+A cp -i ~blob/refs/thing .
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C mv thing refs
+D /user/srdg/xxxxxxx/blob
+A mv -i thing refs
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd kkfoc
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd kfoc
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C rmdir blob
+D /user/srdg/xxxxxxx/kfoc
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C e 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A emacs 870421.jade.navy
+H NIL
+X NIL
+
+C ptroff -me -h 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A /usr/local/bin/ptroff -Palw1 -me -h 870421.jade.navy
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C rm 870421.jade_sale
+D /user/srdg/xxxxxxx/kfoc
+A /bin/mv 870421.jade_sale /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C e 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A emacs 870421.jade.navy
+H NIL
+X NIL
+
+C e 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A emacs 870421.jade.navy
+H NIL
+X NIL
+
+C ptroff -me -h 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A /usr/local/bin/ptroff -Palw1 -me -h 870421.jade.navy
+H NIL
+X NIL
+
+C e 870421.jade.navy
+D /user/srdg/xxxxxxx/kfoc
+A emacs 870421.jade.navy
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C rm "'"
+D /user/srdg/xxxxxxx/kfoc
+A /bin/mv "'" /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/kfoc
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/kfoc
+A NIL
+H NIL
+X NIL
+
+C e telephone
+D /user/srdg/xxxxxxx
+A emacs telephone
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C cd refs
+D /user/srdg/xxxxxxx/unger
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger/refs
+A ls -F
+H NIL
+X NIL
+
+C e roff.mods
+D /user/srdg/xxxxxxx/unger/refs
+A emacs roff.mods
+H NIL
+X NIL
+
+C cp roff.mods ~xxxxxxx/blob
+D /user/srdg/xxxxxxx/unger/refs
+A cp -i roff.mods ~xxxxxxx/blob
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger/refs
+A ls -F
+H NIL
+X NIL
+
+C e unger.bf
+D /user/srdg/xxxxxxx/unger/refs
+A emacs unger.bf
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger/refs
+A ls -F
+H NIL
+X NIL
+
+C cp unger.rjp ~xxxxxxx/blob
+D /user/srdg/xxxxxxx/unger/refs
+A cp -i unger.rjp ~xxxxxxx/blob
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/unger/refs
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C mkdir references
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C mv roff.mods ~xxxxxxx/blob/references
+D /user/srdg/xxxxxxx/blob
+A mv -i roff.mods ~xxxxxxx/blob/references
+H NIL
+X NIL
+
+C mv unger.rjp ~xxxxxxx/blob/references
+D /user/srdg/xxxxxxx/blob
+A mv -i unger.rjp ~xxxxxxx/blob/references
+H NIL
+X NIL
+
+C mv refs ~xxxxxxx/blob/references
+D /user/srdg/xxxxxxx/blob
+A mv -i refs ~xxxxxxx/blob/references
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd references
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C cd refs
+D /user/srdg/xxxxxxx/unger
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger/refs
+A ls -F
+H NIL
+X NIL
+
+C e unger.rcp
+D /user/srdg/xxxxxxx/unger/refs
+A emacs unger.rcp
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/unger/refs
+A NIL
+H NIL
+X NIL
+
+C cd blob/references
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e ref.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs ref.1
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C roff -a refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C roff -Palw1 -h refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C roff -Palw1 refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ptroff -h refs.2
+D /user/srdg/xxxxxxx/blob/references
+A /usr/local/bin/ptroff -Palw1 -h refs.2
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e roff.mods
+D /user/srdg/xxxxxxx/blob/references
+A emacs roff.mods
+H NIL
+X NIL
+
+C e refs.2
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.2
+H NIL
+X NIL
+
+C cp refs.2 ~xxxxxxx/unger/refs
+D /user/srdg/xxxxxxx/blob/references
+A cp -i refs.2 ~xxxxxxx/unger/refs
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C cd unger/refs
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger/refs
+A ls -F
+H NIL
+X NIL
+
+C nroff refs.e
+D /user/srdg/xxxxxxx/unger/refs
+A NIL
+H NIL
+X NIL
+
+C nroff refs.2
+D /user/srdg/xxxxxxx/unger/refs
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/unger/refs
+A NIL
+H NIL
+X NIL
+
+C cd ~danny
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/willowglen/danny
+A ls -F
+H NIL
+X NIL
+
+C cd papers
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  88
+
+C cd emacs
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  88
+
+C cd misc
+D /user/willowglen/danny
+A NIL
+H NIL
+X D  88
+
+C cd
+D /user/willowglen/danny
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C help refer
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e bib
+D /user/srdg/xxxxxxx
+A emacs bib
+H NIL
+X NIL
+
+C help bib
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C help man bib
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C man bib
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man bibliography
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man refer'
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X S  11
+
+C man efer
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C man refer
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e roff.nods
+D /user/srdg/xxxxxxx
+A emacs roff.nods
+H NIL
+X NIL
+
+C cd blob/references
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e roff.mods
+D /user/srdg/xxxxxxx/blob/references
+A emacs roff.mods
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C nroff -me -h refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C troff refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 09:11:48 1987
+E Mon Apr 27 11:55:36 1987
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd references
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C cd ~blob/gramts
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd ~blob/grants
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/blob/grants
+A ls -F
+H NIL
+X NIL
+
+C cd strat
+D /user/profs/blob/grants
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/blob/grants/strat
+A ls -F
+H NIL
+X NIL
+
+C e 87
+D /user/profs/blob/grants/strat
+A emacs 87
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob/grants/strat
+A NIL
+H NIL
+X NIL
+
+C people Curry
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd etc/people
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e people
+D /user/srdg/xxxxxxx/etc/people
+A emacs people
+H NIL
+X NIL
+
+C make
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people Chang'
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X S  11
+
+C people -all Chang
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people -all Alias
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people -all Wagshall
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people -all Vertigo
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people -all Teknica
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people -all Chartwell
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people -all Reed
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people Reed
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C people Reid
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C People Chartwell
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X N  10
+
+C people Chartwell
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C cd ~blob
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C e .calendar
+D /user/profs/blob
+A emacs .calendar
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob
+A NIL
+H NIL
+X NIL
+
+C cd etc/people
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e people
+D /user/srdg/xxxxxxx/etc/people
+A emacs people
+H NIL
+X NIL
+
+C make
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/etc/people
+A NIL
+H NIL
+X NIL
+
+C cd ~blob/references
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X D  88
+
+C cd blob/references
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e roff.mods
+D /user/srdg/xxxxxxx/blob/references
+A emacs roff.mods
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.2
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.2
+H NIL
+X NIL
+
+C roff
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C roff -a refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X N  10
+
+C which roff
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C strings /usr/local/jade/bin/roff
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C strings /usr/local/jade/bin/roff | page
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H T
+X NIL
+
+C printenv
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C cd ~jade
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade
+A ls -F
+H NIL
+X NIL
+
+C cd sources
+D /user/jade/jade
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade/sources
+A ls -F
+H NIL
+X NIL
+
+C cd vax
+D /user/jade/jade/sources
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade/sources/vax
+A ls -F
+H NIL
+X NIL
+
+C ls publish
+D /user/jade/jade/sources/vax
+A ls -F publish
+H NIL
+X NIL
+
+C cd preview
+D /user/jade/jade/sources/vax
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade/sources/vax/preview
+A ls -F
+H NIL
+X NIL
+
+C e roff.c
+D /user/jade/jade/sources/vax/preview
+A emacs roff.c
+H NIL
+X NIL
+
+C head roff.c
+D /user/jade/jade/sources/vax/preview
+A NIL
+H NIL
+X NIL
+
+C su jade
+D /user/jade/jade/sources/vax/preview
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/jade/jade/sources/vax/preview
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/jade/jade/sources/vax/preview
+A NIL
+H NIL
+X NIL
+
+C cd bloc/ref*
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X D  70
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ref*
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C roff -a refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H T
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C cat refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C page refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C tail refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+
+S Mon Apr 27 13:03:48 1987
+E Mon Apr 27 18:38:47 1987
+
+C e .login
+D /user/srdg/xxxxxxx
+A emacs .login
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd ~blob/grants/strat
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 87
+D /user/profs/blob/grants/strat
+A emacs 87
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob/grants/strat
+A NIL
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e strat
+D /user/srdg/xxxxxxx/blob
+A emacs strat
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd references
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e ref.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs ref.1
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C roff -a -h refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C roff -a refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e refs.2
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.2
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C roff -a refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e ref
+D /user/srdg/xxxxxxx/blob/references
+A emacs ref
+H NIL
+X NIL
+
+C e refs.3
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.3
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C sortbih -sD test
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X N  10
+
+C sortbib -sD test
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C sortbib -sD test > test.1
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e test.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs test.1
+H NIL
+X NIL
+
+C roffbib -Palw1 test.1
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C roffbib -Palw1 test.1
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e test.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs test.1
+H NIL
+X NIL
+
+C roffbib -Palw1 test.1
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C man roff
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C manroff
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X N  10
+
+C roffbib test.1 > out
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e out
+D /user/srdg/xxxxxxx/blob/references
+A emacs out
+H NIL
+X NIL
+
+C lpr -Palw1 -h out
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C rm out
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv out /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C e roff.mods
+D /user/srdg/xxxxxxx/blob/references
+A emacs roff.mods
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.3
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.3
+H NIL
+X NIL
+
+C roff -a refs.3
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C page ~blob/etc/people/people
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C emacs ~blob/etc/people/people
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e test
+D /user/srdg/xxxxxxx/blob/references
+A emacs test
+H NIL
+X NIL
+
+C e test.12
+D /user/srdg/xxxxxxx/blob/references
+A emacs test.12
+H NIL
+X NIL
+
+C e test.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs test.1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.3
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.3
+H NIL
+X NIL
+
+C roff -a refs.3
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C e refs.3
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.3
+H NIL
+X NIL
+
+C roff -a refs.3
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.2
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.2
+H NIL
+X NIL
+
+C roff -a refs.2
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C rm refs.3.CKP
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv refs.3.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm test
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv test /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm test.1
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv test.1 /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm unger*
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv unger* /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C lsd
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C roff -a refs.4
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C e refs
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs
+H NIL
+X NIL
+
+C e refs.CKP
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.CKP
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C clear
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C roff -a refs
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C e refs.CKP
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.CKP
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C roff -a refs.4
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e refs.2
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.2
+H NIL
+X NIL
+
+C e rcp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rcp
+H NIL
+X NIL
+
+C rm rcp
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv rcp /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C e refs.3
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.3
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1
+H NIL
+X NIL
+
+C e refs.4
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.4
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.2
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.2
+H NIL
+X NIL
+
+C rm refs.2
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv refs.2 /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C e refs.3
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.3
+H NIL
+X NIL
+
+C rm refs.3
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv refs.3 /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.CKP
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.CKP
+H NIL
+X NIL
+
+C fg
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C roff -a rjp
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e rr
+D /user/srdg/xxxxxxx/blob/references
+A emacs rr
+H NIL
+X NIL
+
+C roff -a rr
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+
+S Tue Apr 28 09:27:59 1987
+E Tue Apr 28 19:08:42 1987
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ~blob/grants/strat
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e 87
+D /user/profs/blob/grants/strat
+A emacs 87
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob/grants/strat
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob/references
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e rjp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rjp
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e books
+D /user/srdg/xxxxxxx/blob/references
+A emacs books
+H NIL
+X NIL
+
+C roff -a books
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e rjp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rjp
+H NIL
+X NIL
+
+C roff -a rjp
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e rcp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rcp
+H NIL
+X NIL
+
+C roff -a rcp
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e rr
+D /user/srdg/xxxxxxx/blob/references
+A emacs rr
+H NIL
+X NIL
+
+C roff -a rr
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.4
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.4
+H NIL
+X NIL
+
+C rm refs.4
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv refs.4 /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e refs.1.CKP
+D /user/srdg/xxxxxxx/blob/references
+A emacs refs.1.CKP
+H NIL
+X NIL
+
+C roff -a animation
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C clear
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C rm refs*
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv refs* /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e rcp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rcp
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C e rcp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rcp
+H NIL
+X NIL
+
+C roff -a rcp.1
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e rcp
+D /user/srdg/xxxxxxx/blob/references
+A emacs rcp
+H NIL
+X NIL
+
+C e rcp.1
+D /user/srdg/xxxxxxx/blob/references
+A emacs rcp.1
+H NIL
+X NIL
+
+C roff -a rcp.1
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e books
+D /user/srdg/xxxxxxx/blob/references
+A emacs books
+H NIL
+X NIL
+
+C roff -a books
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C e books
+D /user/srdg/xxxxxxx/blob/references
+A emacs books
+H NIL
+X NIL
+
+C roff -a books
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C roff -a animation
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C roff -a rr
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob/references
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C rm rcp.CKPA
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv rcp.CKPA /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C rm rcp.CKP
+D /user/srdg/xxxxxxx/blob/references
+A /bin/mv rcp.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob/references
+A ls -F
+H NIL
+X NIL
+
+C cd ..
+D /user/srdg/xxxxxxx/blob/references
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd ~ blob/grants/strat
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X B  49
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C cd ~blob/grants/strat
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/profs/blob/grants/strat
+A ls -F
+H NIL
+X NIL
+
+C e personnel
+D /user/profs/blob/grants/strat
+A emacs personnel
+H NIL
+X NIL
+
+C cd
+D /user/profs/blob/grants/strat
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd blob
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | nroff -me
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | nroff -me
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C e budget
+D /user/srdg/xxxxxxx/blob
+A emacs budget
+H NIL
+X NIL
+
+C tbl budget | ptroff -me -h
+D /user/srdg/xxxxxxx/blob
+A /usr/local/bin/tbl budget | /usr/local/bin/ptroff -Palw1 -me -h
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C lprm -Palw1 319
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/blob
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C rm budget.CKP
+D /user/srdg/xxxxxxx/blob
+A /bin/mv budget.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/blob
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/blob
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C e telephone
+D /user/srdg/xxxxxxx
+A emacs telephone
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e letter
+D /user/srdg/xxxxxxx/unger
+A emacs letter
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C clear
+D /user/srdg/xxxxxxx/unger
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C rm letter.CKP
+D /user/srdg/xxxxxxx/unger
+A /bin/mv letter.CKP /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx/unger
+A lpq -Palw1
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/unger
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/unger
+A NIL
+H NIL
+X NIL
+
+C cd ACCOUNTS
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS
+A ls -F
+H NIL
+X NIL
+
+C e memo.codes
+D /user/srdg/xxxxxxx/ACCOUNTS
+A emacs memo.codes
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx/ACCOUNTS
+A ls -F
+H NIL
+X NIL
+
+C cd
+D /user/srdg/xxxxxxx/ACCOUNTS
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C e progress
+D /user/srdg/xxxxxxx
+A emacs progress
+H NIL
+X NIL
+
+C fg
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C e progress
+D /user/srdg/xxxxxxx
+A emacs progress
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C rm progress*
+D /user/srdg/xxxxxxx
+A /bin/mv progress* /userb/srdg/xxxxxxx/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/srdg/xxxxxxx
+A ls -F
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx
+A lpq -Palw1
+H NIL
+X NIL
+
+C ptroff -me -h apr27.87
+D /user/srdg/xxxxxxx
+A /usr/local/bin/ptroff -Palw1 -me -h apr27.87
+H NIL
+X NIL
+
+C apq
+D /user/srdg/xxxxxxx
+A lpq -Palw1
+H NIL
+X NIL
+
+C cd unger
+D /user/srdg/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+S Fri Mar 20 09:16:09 1987
+E NIL
+
+C lpr typescript
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 14:02:45 1987
+E Wed Mar 18 14:07:02 1987
+
+C pix -l ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+
+S Wed Mar 18 16:59:36 1987
+E Wed Mar 18 17:15:40 1987
+
+C set term=ansi
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C um
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 000000
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 4
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C -1113
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Wed Mar 18 17:24:25 1987
+E Wed Mar 18 18:14:45 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 0000
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C 0000000
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C more ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -102g ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 18:17:50 1987
+E Wed Mar 18 19:08:18 1987
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 19:10:00 1987
+E Wed Mar 18 20:54:04 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more ship.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ship.p.CKP ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ships.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ships.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g104 ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g115 ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 21:33:53 1987
+E Thu Mar 19 02:48:45 1987
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs -g86 ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs pix.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umac ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs random.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp ship.p rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm rand.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ship.pCKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm ship.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm temp.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm random.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm battleship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cp rand.p ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C more rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr ship.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C logout
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+
+S Thu Mar 19 10:52:45 1987
+E Thu Mar 19 11:02:46 1987
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 10:58:35 1987
+E Thu Mar 19 12:28:57 1987
+
+C lxs
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vip7400
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C \õmacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpr rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lquota
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C pix rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm rand.p.CKP
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rm dead.letter
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 11:29:56 1987
+E Thu Mar 19 11:35:31 1987
+
+C mail xxxxxxx
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mail xxxxxxx
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 15:41:45 1987
+E Thu Mar 19 15:48:26 1987
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C umacs rand.p
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lo
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+
+S Thu Mar 19 16:20:42 1987
+E Thu Mar 19 16:23:00 1987
+
+C set term=vt52
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kermit
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+
+S Thu Mar 19 16:52:19 1987
+E Thu Mar 19 16:55:45 1987
+
+C kermit
+D /user/cpsc211/l03b37/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+S Fri Mar 20 09:16:09 1987
+E NIL
+
+C date
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C Run.NC
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C plot
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C igr
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C life
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C df
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C grep
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C ranlib
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C leave
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C clean
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C apl
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C /user/grads/xxxxx/bin/expunge
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C Run.WC
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C m
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C Run.LC
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C /usr/ucb/f
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C w
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C yes
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C devver
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C rehash
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C krill
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C lint
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C nm
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C g3
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C queue
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C ipr
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C js
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C $LS
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C kill
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C tw_test
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C getvterm
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C Run.1
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C jades_ln
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C ruptime
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C Run.8
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C tw_clean
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C st
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C jades_ls
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C dbx
+D /user/grads
+A NIL
+H NIL
+X NIL
+
+C .mail-grads
+D /user/grads
+A NIL
+H NIL
+X NIL

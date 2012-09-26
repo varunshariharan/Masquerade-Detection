@@ -1,0 +1,5365 @@
+S Fri Mar  6 14:08:30 1987
+E NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A limits
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A limits
+H NIL
+X NIL
+
+C mv wp.p ../good
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C RM copy output w.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm -i copy output w.p
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C unrm cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A mv $HOME/.deleted/cp mid output .
+H NIL
+X NIL
+
+C unrm mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A mv $HOME/.deleted/mid .
+H NIL
+X NIL
+
+C unrm output
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A mv $HOME/.deleted/output .
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C RM cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm -i cp mid output
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C cd ../good
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ../good ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A more copy
+H NIL
+X NIL
+
+C mv wp.p old
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A NIL
+H NIL
+X NIL
+
+C ls ass3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A ls -Fg ass3
+H NIL
+X NIL
+
+C mv old ass3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A NIL
+H NIL
+X NIL
+
+C cd ass3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A cd ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy
+H NIL
+X NIL
+
+C cd ..
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd .. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C rm copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A mv copy $HOME/.deleted
+H NIL
+X NIL
+
+C cd ass3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good
+A cd ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C rm typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv typescript $HOME/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C unrm typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv $HOME/.deleted/typescript .
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C RM typescript mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i typescript mid output
+H NIL
+X NIL
+
+C m hold
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more hold
+H NIL
+X NIL
+
+C mv copy copy1
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv hold copy2
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C e wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A emacs wp.p
+H NIL
+X NIL
+
+C mv copy1 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C m cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more cp mid output
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv wp.p.CKP wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more wp.p
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C e wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A emacs wp.p
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more cp mid output
+H NIL
+X NIL
+
+C mv copy copy1
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy2 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C m copy cp mid output out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy cp mid output out
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C RM copy cp mid out output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i copy cp mid out output
+H NIL
+X NIL
+
+C mv copy3 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cd .deleted
+D /user/cpsc211/l03b32/xxxxxxx
+A cd .deleted ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m copy
+D /user/cpsc211/l03b32/xxxxxxx/.deleted
+A more copy
+H NIL
+X NIL
+
+C cd ../ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx/.deleted
+A cd ../ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m copy cp mid output out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy cp mid output out
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cat doc
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C 
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A clear
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C m copy cp mid output out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy cp mid output out
+H NIL
+X NIL
+
+C mv copy copy2
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy1 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < out > out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < out > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A history -r | more
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more output
+H NIL
+X NIL
+
+C m mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more mid
+H NIL
+X NIL
+
+C m cp
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more cp
+H NIL
+X NIL
+
+C m copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < out > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more output
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C m copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy3
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C m copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy3
+H NIL
+X NIL
+
+C m copy2
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy2
+H NIL
+X NIL
+
+C RM cp mid output out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i cp mid output out
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C mv old ..
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C rm copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv copy3 $HOME/.deleted
+H NIL
+X NIL
+
+C mv copy copy1
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C rm copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv copy3 $HOME/.deleted
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C mv copy4 copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C mv copy3 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cd ../../rough
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ../../rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C mail marinaro
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C m out output
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more out output
+H NIL
+X NIL
+
+C cd ../good/ass3
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ../good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m out output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more out output
+H NIL
+X NIL
+
+C mv copy copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C RM cp out output mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i cp out output mid
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more typescript
+H NIL
+X NIL
+
+C cat typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A lpr -c0944 typescript
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A limits
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C m copy copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more copy copy3
+H NIL
+X NIL
+
+C RM copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i copy3
+H NIL
+X NIL
+
+C clenaup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C wn
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C RM cp mid out output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i cp mid out output
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X J  82
+
+C e wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A emacs wp.p
+H NIL
+X NIL
+
+C pix wp.p < copy1 > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more output
+H NIL
+X NIL
+
+C m .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .mid
+H NIL
+X NIL
+
+C m .cp
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .cp
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C m out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more out
+H NIL
+X NIL
+
+C RM doc
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i doc
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X J  82
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C mv copy copy3
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more output
+H NIL
+X NIL
+
+C m out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more out
+H NIL
+X NIL
+
+C rm out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv out $HOME/.deleted
+H NIL
+X NIL
+
+C unrm out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv $HOME/.deleted/out .
+H NIL
+X NIL
+
+C RM out
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i out
+H NIL
+X NIL
+
+C RM output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i output
+H NIL
+X NIL
+
+C m .cp
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .cp
+H NIL
+X NIL
+
+C m .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .mid
+H NIL
+X NIL
+
+C die
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A logout
+H NIL
+X NIL
+
+
+S Fri Mar  6 15:19:47 1987
+E Fri Mar  6 15:30:31 1987
+
+C date
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C cat doc
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix -l wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy1 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C m copy cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C more copy cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy copy1
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy2 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C more copy cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy copy2
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv copy3 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C pix wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C more copy cp mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C It is impossible to cause an error in the program. Everything is read in character type.
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C the mid and cp files could be made invisible by naming them .mid and .cp respectively.
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+
+S Fri Mar  6 16:25:36 1987
+E NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C lpr typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A lpr -c0944 typescript
+H NIL
+X NIL
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 13:35:24 1987
+E NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C lpr -0944 typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A limits
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X NIL
+
+C !
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C !
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X N  10
+
+C !
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X N  10
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H T
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C die
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 13:53:09 1987
+E NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C write xxxxxxx
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C talk ronak
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C prt
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C vaxd
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C port vaxa
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ptr
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C qtr
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C snd
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C send
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C trp
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C send.vaxd
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C prt.vaxd
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C lstrm
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C unrm copy
+D /user/cpsc211/l03b32/xxxxxxx
+A mv $HOME/.deleted/copy .
+H NIL
+X NIL
+
+C unrm copy3
+D /user/cpsc211/l03b32/xxxxxxx
+A mv $HOME/.deleted/copy3 .
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C m copy copy3
+D /user/cpsc211/l03b32/xxxxxxx
+A more copy copy3
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx
+A more output
+H NIL
+X NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C pi wp.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C mv obj .wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg -la
+H NIL
+X NIL
+
+C m .cp .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .cp .mid
+H NIL
+X NIL
+
+C rm .cp .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv .cp .mid $HOME/.deleted
+H NIL
+X NIL
+
+C unrm .cp .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv $HOME/.deleted/.cp .mid .
+H NIL
+X NIL
+
+C unrm .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A mv $HOME/.deleted/.mid .
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C RM .cp .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm -i .cp .mid
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A px .wordpro
+H NIL
+X NIL
+
+C m .cp
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .cp
+H NIL
+X NIL
+
+C m .mid
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .mid
+H NIL
+X NIL
+
+C mv copy1 copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A px .wordpro
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C m .cp .mid output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .cp .mid output
+H NIL
+X NIL
+
+C cp .wordpro ../../..
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg -la
+H NIL
+X NIL
+
+C m .emacs_973
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .emacs_973
+H NIL
+X NIL
+
+C mv copy copy1
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C mv copy3 copy
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C RM mid
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm -i mid
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X M  09
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx
+A more output
+H NIL
+X NIL
+
+C RM copy
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm -i copy
+H NIL
+X NIL
+
+C RM output
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm -i output
+H NIL
+X NIL
+
+C e .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C cp .cshrc copy
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C m .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A more .cshrc
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx
+A more output
+H NIL
+X NIL
+
+C m .cp .mid
+D /user/cpsc211/l03b32/xxxxxxx
+A more .cp .mid
+H NIL
+X NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A source .cshrc
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro ; /bin/rm -i .cp .mid
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C m .cp .mid
+D /user/cpsc211/l03b32/xxxxxxx
+A more .cp .mid
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro ; /bin/rm -i .cp .mid
+H NIL
+X NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A source .cshrc
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C m .mid .cp
+D /user/cpsc211/l03b32/xxxxxxx
+A more .mid .cp
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx
+A more output
+H NIL
+X NIL
+
+C rm copy
+D /user/cpsc211/l03b32/xxxxxxx
+A mv copy $HOME/.deleted
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C unrm copy
+D /user/cpsc211/l03b32/xxxxxxx
+A mv $HOME/.deleted/copy .
+H NIL
+X NIL
+
+C RM copy
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm -i copy
+H NIL
+X NIL
+
+C rem copy
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm copy
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C m copy
+D /user/cpsc211/l03b32/xxxxxxx
+A more copy
+H NIL
+X NIL
+
+C rem output
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm output
+H NIL
+X NIL
+
+C s .logout
+D /user/cpsc211/l03b32/xxxxxxx
+A source .logout
+H NIL
+X NIL
+
+C s fuckit
+D /user/cpsc211/l03b32/xxxxxxx
+A source fuckit
+H NIL
+X NIL
+
+C s ass
+D /user/cpsc211/l03b32/xxxxxxx
+A source ass
+H NIL
+X NIL
+
+C s .emacs_973
+D /user/cpsc211/l03b32/xxxxxxx
+A source .emacs_973
+H NIL
+X N  10
+
+C s .ed_9171
+D /user/cpsc211/l03b32/xxxxxxx
+A source .ed_9171
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -la
+H NIL
+X NIL
+
+C clenaup
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X J  81
+
+C .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C .logout
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C chmod 777 .logout
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C .logout
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -la
+H NIL
+X NIL
+
+C chmod 777 .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C .loign
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C s .login
+D /user/cpsc211/l03b32/xxxxxxx
+A source .login
+H NIL
+X NIL
+
+C chmod 644 .login .logout
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -la
+H NIL
+X NIL
+
+C ..
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C chmod 600 vt103.ml
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 600 vt102.ml
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -la
+H NIL
+X NIL
+
+C chmod 777 vt102.ml
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C vt102.ml
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C chmod 600 vt102.ml
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C setup- terminal
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C setup-terminal
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C put
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C m .cshrc
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more .cshrc
+H NIL
+X NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A source .cshrc
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C chmod
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -la
+H NIL
+X NIL
+
+C chmod 777 .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A source .cshrc
+H NIL
+X NIL
+
+C worodpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C \òem
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X N  10
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C chmod 644 .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A more output
+H NIL
+X NIL
+
+C rem output
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A /bin/rm output
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+
+S Sun Mar  8 14:27:09 1987
+E NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C m .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A more .cshrc
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A source .cshrc
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm
+H NIL
+X NIL
+
+C e .cshrc &
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs .cshrc &
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X J  82
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A source .cshrc
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A source .cshrc
+H NIL
+X NIL
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx
+A echo " " ; "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X N  10
+
+
+S Sun Mar  8 14:30:18 1987
+E NIL
+
+C e .cshrc &
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs .cshrc &
+H NIL
+X NIL
+
+C mail xxxxxxx
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A source .cshrc
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X J  82
+
+C e .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs .cshrc
+H NIL
+X NIL
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx
+A echo " " ; "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X N  10
+
+
+S Sun Mar  8 14:34:42 1987
+E NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C mv .login hold
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv .cshrc .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv hold .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C h
+D /user/cpsc211/l03b32/xxxxxxx
+A history -r | more
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X J  82
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx
+A echo " " ; echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 14:36:22 1987
+E NIL
+
+C s .cshrc
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C source .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls -la
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C m .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C more .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C emacs .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C source .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm
+H NIL
+X NIL
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx
+A echo " " ; echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 14:38:33 1987
+E Sun Mar  8 14:49:59 1987
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C t
+D /user/cpsc211/l03b32/xxxxxxx
+A date
+H NIL
+X NIL
+
+C e .login &
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs .login &
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C s .login
+D /user/cpsc211/l03b32/xxxxxxx
+A source .login
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm
+H NIL
+X NIL
+
+C xl
+D /user/cpsc211/l03b32/xxxxxxx
+A pix -l
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx
+A pix
+H NIL
+X NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A source .login
+H NIL
+X NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A a
+H NIL
+X N  10
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A a
+H NIL
+X N  10
+
+C .l a a
+D /user/cpsc211/l03b32/xxxxxxx
+A alias a a
+H T
+X NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A a
+H NIL
+X N  10
+
+C .l a 'a'
+D /user/cpsc211/l03b32/xxxxxxx
+A alias a 'a'
+H T
+X NIL
+
+C .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A alias a
+H NIL
+X NIL
+
+C .l rem
+D /user/cpsc211/l03b32/xxxxxxx
+A alias rem
+H NIL
+X NIL
+
+C .l wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A alias wordpro
+H NIL
+X NIL
+
+C lds
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C clenaup
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A a
+H NIL
+X N  10
+
+C .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A alias a
+H NIL
+X NIL
+
+C .l .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A alias .l a
+H T
+X NIL
+
+C .l .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A a .l a
+H T
+X N  10
+
+C h
+D /user/cpsc211/l03b32/xxxxxxx
+A history -r | more
+H NIL
+X NIL
+
+C h
+D /user/cpsc211/l03b32/xxxxxxx
+A history -r | more
+H T
+X NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A a
+H NIL
+X N  10
+
+C .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A a a
+H NIL
+X N  10
+
+C .l a .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A a a .l a
+H T
+X N  10
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X J  82
+
+C .l t
+D /user/cpsc211/l03b32/xxxxxxx
+A a t
+H NIL
+X N  10
+
+C .l t
+D /user/cpsc211/l03b32/xxxxxxx
+A a t
+H NIL
+X N  10
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx
+A a
+H NIL
+X N  10
+
+C .l t
+D /user/cpsc211/l03b32/xxxxxxx
+A a t
+H NIL
+X N  10
+
+C .l rem
+D /user/cpsc211/l03b32/xxxxxxx
+A a rem
+H NIL
+X N  10
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C .l rem
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A a rem
+H NIL
+X N  10
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm
+H NIL
+X NIL
+
+C t
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A date
+H NIL
+X NIL
+
+C alias t
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C alias rem
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C .l rem
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A a rem
+H NIL
+X N  10
+
+C alias .l
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C alias .l alias
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C .l .l
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias .l
+H NIL
+X NIL
+
+C .l a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias a
+H NIL
+X NIL
+
+C alias a .l a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H T
+X NIL
+
+C alias a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C alias a again
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C alias a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C alias alias a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H T
+X A  50
+
+C .l a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias a
+H NIL
+X NIL
+
+C a
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A again
+H NIL
+X N  10
+
+C .l alias
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias alias
+H NIL
+X NIL
+
+C .l .l alias
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias .l alias
+H T
+X NIL
+
+C alias .l .l alias
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H T
+X NIL
+
+C rem alias
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm alias
+H NIL
+X NIL
+
+C m .login
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more .login
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m Command execution.CKP
+D /user/cpsc211/l03b32/xxxxxxx
+A more Command execution.CKP
+H NIL
+X NIL
+
+C m *.CKP
+D /user/cpsc211/l03b32/xxxxxxx
+A more *.CKP
+H NIL
+X NIL
+
+
+S Sun Mar  8 14:50:38 1987
+E NIL
+
+C .l a
+D /user/cpsc211/l03b32/xxxxxxx
+A alias a
+H NIL
+X NIL
+
+C .l rem
+D /user/cpsc211/l03b32/xxxxxxx
+A alias rem
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm
+H NIL
+X NIL
+
+C man kill
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill -l
+D /user/cpsc211/l03b32/xxxxxxx
+A kill -9 -l
+H NIL
+X J  80
+
+C write xxxxxxx
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C kill 0
+D /user/cpsc211/l03b32/xxxxxxx
+A kill -9 0
+H NIL
+X NIL
+
+
+S Sun Mar  8 14:52:47 1987
+E NIL
+
+C m *.CKP
+D /user/cpsc211/l03b32/xxxxxxx
+A more *.CKP
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C m *.ckp
+D /user/cpsc211/l03b32/xxxxxxx
+A more *.ckp
+H NIL
+X M  09
+
+C l
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -la
+H NIL
+X NIL
+
+C m *.CKP *.BAK
+D /user/cpsc211/l03b32/xxxxxxx
+A more *.CKP *.BAK
+H NIL
+X NIL
+
+C m *.CKP *.BAK
+D /user/cpsc211/l03b32/xxxxxxx
+A more *.CKP *.BAK
+H T
+X NIL
+
+C m *.CKP *.BAK
+D /user/cpsc211/l03b32/xxxxxxx
+A more *.CKP *.BAK
+H T
+X NIL
+
+C clenaup
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A echo " " ; echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X NIL
+
+
+S Sun Mar  8 14:53:00 1987
+E NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm
+H NIL
+X NIL
+
+C .l rem
+D /user/cpsc211/l03b32/xxxxxxx
+A alias rem
+H NIL
+X NIL
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx
+A echo " " ; echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X NIL
+
+
+S Tue Mar 17 10:48:02 1987
+E Tue Mar 17 11:00:53 1987
+
+C mail
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C messages
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C Messages
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X Y 102
+
+C s Messages
+D /user/cpsc211/l03b32/xxxxxxx
+A source Messages
+H NIL
+X NIL
+
+C lss
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg ../..
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx
+A limits
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C ls ass/rough ass/good ass/good/ass3 notes free
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg ass/rough ass/good ass/good/ass3 notes free
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C script
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C script
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cat j15
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cat j15
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx
+A limits
+H NIL
+X NIL
+
+C lines typescirpt
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C lines typescript
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C mv typescript Notes.Vol1
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C e Notes.Vol1
+D /user/cpsc211/l03b32/xxxxxxx
+A emacs Notes.Vol1
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C rem Notes.Vol1
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm Notes.Vol1
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cat j06 j08 j13 j15 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211
+A limits
+H NIL
+X NIL
+
+
+S Tue Mar 17 10:51:33 1987
+E Tue Mar 17 10:54:42 1987
+
+C source .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cat j06 j08 j13 j15
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C h
+D /user/cpsc211
+A history -r | more
+H NIL
+X NIL
+
+
+S Wed Mar 18 15:51:11 1987
+E Wed Mar 18 15:55:20 1987
+
+C mail
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C s .login
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd ../..
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C m lab4.p
+D /user/cpsc211
+A NIL
+H NIL
+X N  10
+
+C more lab4.p
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cat j20 j22 j27 j29 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cat j20 j22 j27 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211
+A NIL
+H NIL
+X N  10
+
+C quota -v
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C limits
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C date
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+
+S Wed Mar 18 22:17:38 1987
+E NIL
+
+C rem
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm
+H NIL
+X NIL
+
+C lsrm
+D /user/cpsc211/l03b32/xxxxxxx
+A ls -Fg -a $HOME/.deleted
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C e bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A emacs bs.p
+H NIL
+X NIL
+
+C pix bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C pix bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C .l x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias x
+H NIL
+X NIL
+
+C .l x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias x
+H NIL
+X NIL
+
+C .l x pix
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias x pix
+H NIL
+X NIL
+
+C .l x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias x
+H NIL
+X NIL
+
+C x bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C .l x pix bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias x pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x > copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p > copy
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C mv copy ../..
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx
+A more output
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C rem copy output
+D /user/cpsc211/l03b32/xxxxxxx
+A /bin/rm copy output
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x > copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p > copy
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cp .wordpro ass/rough
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C m output
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more output
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x > copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p > copy
+H NIL
+X NIL
+
+C m copy
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more copy
+H NIL
+X NIL
+
+C wordpro
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A px .wordpro ; /bin/rm .cp .mid
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C man random
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C man rand ( 3 )
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X S  34
+
+C man rand
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C random
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C h
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A history -r | more
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C mv bs.p.CKP bs.p[
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X S  71
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C mv bs.p.CKP bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C rem copy output
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm copy output
+H NIL
+X NIL
+
+C e bs.p &
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A emacs bs.p &
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C e bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A emacs bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < in > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in > out &
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C m in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more in
+H NIL
+X NIL
+
+C m in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more in
+H T
+X NIL
+
+C x < in > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in > out &
+H NIL
+X NIL
+
+C x < in > out &
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in > out &
+H T
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H T
+X NIL
+
+C x < in > out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in > out
+H NIL
+X NIL
+
+C m out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more out
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < inn
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < inn > out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn > out
+H NIL
+X NIL
+
+C m out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more out
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < inn > out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn > out
+H NIL
+X NIL
+
+C m out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more out
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < inn > out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn > out
+H NIL
+X NIL
+
+C m out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A more out
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C mv bs.p.CKP bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C e bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A emacs bs.p
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C x < inn
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < inn
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < n
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < n
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C x < inn
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A ls -Fg
+H NIL
+X NIL
+
+C rm out
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A mv out $HOME/.deleted
+H NIL
+X NIL
+
+C die
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A logout
+H NIL
+X J  81
+
+C die
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 02:39:12 1987
+E NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cat j29 f03 f10 f12 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cat j29 f03 f10 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cd Messages
+D /user/cpsc211/l03b32/xxxxxxx
+A cd Messages ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C e Directory
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A emacs Directory
+H NIL
+X NIL
+
+C cleanup
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A /bin/rm *.CKP *.BAK .*.CKP .*.BAK
+H NIL
+X NIL
+
+C ls
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A ls -Fg
+H NIL
+X NIL
+
+C m Directory
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A more Directory
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C lpr bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C lpq
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C qu
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A limits
+H NIL
+X NIL
+
+C die
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A logout
+H NIL
+X NIL
+
+
+S Thu Mar 19 12:26:37 1987
+E NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cd Messages
+D /user/cpsc211/l03b32/xxxxxxx
+A cd Messages ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C m Directory
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A more Directory
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx/Messages
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cat f12 f26 m03 m05
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C cat f12 f26 m03 m05 | lpr
+D /user/cpsc211
+A NIL
+H T
+X NIL
+
+C cat f12 f26 m03 | lpr
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lines f12 f26 m03
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C lines f12 f26 m03 m05 m17 m19
+D /user/cpsc211
+A NIL
+H T
+X NIL
+
+C cd
+D /user/cpsc211
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C ar
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/rough ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X N  10
+
+C .l x pix bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias x pix bs.p
+H NIL
+X NIL
+
+C .l
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A alias
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C e bs.p
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A emacs bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x < in
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < in
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x < inn
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn
+H NIL
+X NIL
+
+C x < inn
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p < inn
+H T
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fgg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X N  10
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C fg
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X NIL
+
+C x
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A pix bs.p
+H NIL
+X NIL
+
+C no
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A NIL
+H NIL
+X N  10
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A echo " " ; echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H NIL
+X J  81
+
+C fuckit
+D /user/cpsc211/l03b32/xxxxxxx/ass/rough
+A echo " " ; echo "voulez-vouz coucher avec moi, ce soir?" ; logout
+H T
+X NIL
+
+
+S Thu Mar 19 13:26:49 1987
+E NIL
+
+C 4
+D /user/cpsc211/l03b32/xxxxxxx
+A NIL
+H NIL
+X N  10
+
+C cd ass/good/ass3
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ass/good/ass3 ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cat typescript
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A NIL
+H NIL
+X NIL
+
+C cd
+D /user/cpsc211/l03b32/xxxxxxx/ass/good/ass3
+A cd ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C cdd
+D /user/cpsc211/l03b32/xxxxxxx
+A cd ../.. ; set prompt = "[$cwd:t] ! => " ; ls -Fg
+H NIL
+X NIL
+
+C h
+D /user/cpsc211
+A history -r | more
+H NIL
+X NIL
+
+C cat m17 m19
+D /user/cpsc211
+A NIL
+H NIL
+X NIL
+
+C die
+D /user/cpsc211
+A logout
+H NIL
+X NIL
+

@@ -1,0 +1,14 @@
+public class Statistics {
+    public double TP, FP, TN, FN, TPR, FPR, TNR, FNR;
+    
+    public Statistics() {
+        TP = FP = TN = FN = TPR = FPR = TNR = FNR = 0.0;
+    }
+
+    public void calculateRates() {
+        TPR = TP / (TP + FN);
+        FPR = FP / (FP + TN);
+        FNR = FN / (FN + TP);
+        TNR = TN / (TN + FP);
+    }
+}
