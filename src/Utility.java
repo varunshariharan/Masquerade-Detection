@@ -33,23 +33,23 @@ public class Utility {
         return actualCommandSequence.toString();
     }
 
-    public static Statistics printAndReturnStatisticsFrom(String anomalousData, String actualCommandSequence) {
+    public static Statistics printAndReturnStatisticsFrom(String prediction, String truthOrMajority) {
         Statistics statistics = new Statistics();
-        for(int index = 0; index < Math.min(anomalousData.length(), actualCommandSequence.length()); index++){
-            if((anomalousData.charAt(index) != DataStreamPatternRecognizer.matchedChar) &&
-                    (anomalousData.charAt(index) == actualCommandSequence.charAt(index)))
+        for(int index = 0; index < Math.min(prediction.length(), truthOrMajority.length()); index++){
+            if((prediction.charAt(index) != DataStreamPatternRecognizer.matchedChar) &&
+                    (truthOrMajority.charAt(index) != DataStreamPatternRecognizer.matchedChar))
                 statistics.TP++;
 
-            if((actualCommandSequence.charAt(index) == DataStreamPatternRecognizer.matchedChar) &&
-                    (anomalousData.charAt(index) != DataStreamPatternRecognizer.matchedChar))
+            if((truthOrMajority.charAt(index) == DataStreamPatternRecognizer.matchedChar) &&
+                    (prediction.charAt(index) != DataStreamPatternRecognizer.matchedChar))
                 statistics.FP++;
 
-            if((actualCommandSequence.charAt(index) == DataStreamPatternRecognizer.matchedChar) &&
-                    (anomalousData.charAt(index) == DataStreamPatternRecognizer.matchedChar))
+            if((truthOrMajority.charAt(index) == DataStreamPatternRecognizer.matchedChar) &&
+                    (prediction.charAt(index) == DataStreamPatternRecognizer.matchedChar))
                 statistics.TN++;
 
-            if((actualCommandSequence.charAt(index) != DataStreamPatternRecognizer.matchedChar) &&
-                    (anomalousData.charAt(index) == DataStreamPatternRecognizer.matchedChar))
+            if((truthOrMajority.charAt(index) != DataStreamPatternRecognizer.matchedChar) &&
+                    (prediction.charAt(index) == DataStreamPatternRecognizer.matchedChar))
                 statistics.FN++;
         }
 

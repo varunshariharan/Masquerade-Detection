@@ -82,7 +82,7 @@ public class VarunDataTest {
         File dir = new File("./data/Training and Testing Chunks/");
         File[] files = dir.listFiles();
         String[] chunks = new String[8];
-        outerEnsembleSize = 3;
+        outerEnsembleSize = 4;
         totalNumberOfChunks = 8;
 
         for(int i = 0; i < files.length; i+=8){
@@ -287,7 +287,7 @@ public class VarunDataTest {
         LZW lzw = new LZW();
         DataStreamPatternRecognizer dataStreamPatternRecognizer;
         String anomalousData;
-        ArrayList<Statistics> statistics = new ArrayList<Statistics>();
+
         int ensembleSize = outerEnsembleSize;
         int testChunkIndex = 1;
         ArrayList<HashMap<String, Double>> ensemble;
@@ -359,6 +359,8 @@ public class VarunDataTest {
 //                returnActualCommandSequenceWithJustAnomalies(encodedTWithoutSB[7], commandLists.get(7));
 
         int size = 0;
+        ArrayList<Statistics> statistics = new ArrayList<Statistics>();
+        Statistics statistic;
         for(testChunkIndex = 1; testChunkIndex < totalNumberOfChunks; testChunkIndex++){
             ensemble = new ArrayList<HashMap<String, Double>>(ensembleSize);
 
@@ -396,12 +398,14 @@ public class VarunDataTest {
             tWithJustAnomalies[7] = Utility.
                     returnActualCommandSequenceWithJustAnomalies(encodedTWithoutSB[7], commandLists.get(7));
 
-            String[] anomalousDataList = new String[testChunkIndex];
             Statistics insertStatistic = new Statistics();
             System.out.println("Test chunk index = "+testChunkIndex);
             int startIndex = testChunkIndex - ensembleSize;
-            if(startIndex < 0)
+            if(startIndex < 0) {
                 startIndex = 0;
+            }
+
+            String[] anomalousDataList = new String[testChunkIndex-startIndex];
             for (int index = startIndex; index < testChunkIndex; index++){
                 System.out.println("Index = "+index);
                 encodedTWithoutSB[index] = removeAnomalies(encodedTWithoutSB[index], tWithJustAnomalies[index]);
@@ -435,7 +439,7 @@ public class VarunDataTest {
 
                         //TODO replace tWithJustAnomalies with majority voting string
 //                        Statistics statistic = Utility.printAndReturnStatisticsFrom(anomalousData, tWithJustAnomalies[testChunkIndex]);
-                        Statistics statistic = Utility.printAndReturnStatisticsFrom(anomalousDataList[i], votingResults);
+                        statistic = Utility.printAndReturnStatisticsFrom(anomalousDataList[i], votingResults);
                         if((bestStatistic.FPR == 0.0) || (statistic.FPR < bestStatistic.FPR))
                         {
                             bestStatistic = statistic;
@@ -449,31 +453,31 @@ public class VarunDataTest {
                             System.out.println("Set "+i+" as worst statistic");
                         }
                     }
+                    statistics.add(insertStatistic);
+//                    statistics.add(bestStatistic);
+                    size += quantisedDictionary.size();
+
                     ensemble.remove(worstStatisticIndex);
                     System.out.println("Removing " + worstStatisticIndex);
                 }
 
-                if(ensembleSize == ensemble.size()) {
-                    statistics.add(insertStatistic);
-                }
-                size += quantisedDictionary.size();
             }
         }
 
-        size /= 7;
+        size /= (totalNumberOfChunks-1);
         overallAvgSIZE += size;
 
         Double avgFPR = 0.0, avgTPR = 0.0, avgF1Measure = 0.0, avgPrecision = 0.0;
         Double avgRecall = 0.0, avgFpoint5Measure = 0.0, avgF2Measure = 0.0;
-        for (Statistics statistic : statistics) {
-            if(statistic.TP == 0.0) continue;
-            avgFPR += statistic.FPR;
-            avgTPR += statistic.TPR;
-            avgPrecision += statistic.precision;
-            avgFpoint5Measure += statistic.fpoint5measure;
-            avgF1Measure += statistic.f1measure;
-            avgF2Measure += statistic.f2measure;
-            avgRecall += statistic.recall;
+        for (Statistics eachStatistic : statistics) {
+            if(eachStatistic.TP == 0.0) continue;
+            avgFPR += eachStatistic.FPR;
+            avgTPR += eachStatistic.TPR;
+            avgPrecision += eachStatistic.precision;
+            avgFpoint5Measure += eachStatistic.fpoint5measure;
+            avgF1Measure += eachStatistic.f1measure;
+            avgF2Measure += eachStatistic.f2measure;
+            avgRecall += eachStatistic.recall;
         }
 
         avgFPR /= statistics.size();
@@ -500,7 +504,12 @@ public class VarunDataTest {
     private String compressAnomalousData(String[] anomalousDataList) {
         String returnString;
         char[] returnCharArray = anomalousDataList[0].toCharArray();
-        for(int charIndex = 0; charIndex < anomalousDataList[0].length();charIndex++){
+        int minLength = 0;
+        for(int listIndex = 0; listIndex < anomalousDataList.length; listIndex++){
+            if(minLength > anomalousDataList[listIndex].length())
+                minLength = anomalousDataList[listIndex].length();
+        }
+        for(int charIndex = 0; charIndex < minLength;charIndex++){
             int benign = 0; int anomaly = 0;
             for (int index = 0; index < anomalousDataList.length; index++){
                 if(anomalousDataList[index].charAt(charIndex) == DataStreamPatternRecognizer.matchedChar)

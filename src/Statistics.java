@@ -13,6 +13,14 @@ public class Statistics {
         FNR = FN / (FN + TP);
         TNR = TN / (TN + FP);
 
+        if (TP+FN == 0.0){
+            TPR = 0.0;
+            FNR = 0.0;
+        }
+        if (TN + FP == 0.0){
+            FPR = 0.0;
+            TNR = 0.0;
+        }
         precision = TP / (TP + FP);
         recall = TPR;
         fpoint5measure = (1.25*precision*recall) / (0.25*precision + recall);
